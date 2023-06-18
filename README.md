@@ -3,7 +3,7 @@
 I am a junior full stack developer from Poland- ? Working on multiple frontend and backend project using JavaScript, React and Nodejs
 
 <br> Connect with me [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/feed/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/22093037/weronika)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nika.babik)<br>
-<br>
+<br> Technologies
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F&color=%23323330" />
 <br>
 <!--
